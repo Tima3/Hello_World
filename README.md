@@ -1,2 +1,2 @@
-# Hellow-World
-just onother repositore
+# Hello-World
+Hi Humans!
